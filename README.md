@@ -1,4 +1,4 @@
-## Portfolio Project:-
+<img width="629" height="171" alt="Untitled Diagra-Page-2 drawio" src="https://github.com/user-attachments/assets/bd7c1bbe-20c4-4dc2-a4d2-bced092b69de" />## Portfolio Project:-
 ## End-to-End Vrinda Store Sales Analysis
 Analyzed VRINDA STORE retail sales data to uncover customer behavior, sales trends, and order performance. Cleaned, transformed, and modeled data using Power BI and Power Query, and built interactive dashboards highlighting key KPIs such as sales, orders, category performance, and customer demographics. Delivered actionable insights to support data-driven business decisions.
 ### Technologies used:
@@ -17,5 +17,8 @@ Summarize insights and create visual reports using Power BI,Excel:
 
 ### Architecture Map:-
 <img width="629" height="171" alt="Untitled Diagra-Page-2 drawio" src="https://github.com/user-attachments/assets/b080a6e7-0620-40a3-8ef2-768c35a075ce" />
+
+### DATASETS_LINK
+https://1drv.ms/x/c/f306adae98a774dc/IQAvCwwv2_ODSry7k3CQy8BOAUxi3AZeNBiCdFN7m60kzNY
 
 
