@@ -16,5 +16,6 @@ Analyzed the Vrinda Store sales data in Jupyter Notebooks using Python, Matplotl
 Summarize insights and create visual reports using Power BI,Excel:
 
 ### Architecture Map:-
-![Uploading Untitled Diagram-Page-2.drawio.png…]()
+<img width="629" height="171" alt="Untitled Diagra-Page-2 drawio" src="https://github.com/user-attachments/assets/b080a6e7-0620-40a3-8ef2-768c35a075ce" />
+
 
