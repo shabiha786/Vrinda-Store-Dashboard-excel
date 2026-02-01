@@ -15,6 +15,6 @@ Analyzed the Vrinda Store sales data in Jupyter Notebooks using Python, Matplotl
 ### Data Insights and Visualization:-
 Summarize insights and create visual reports using Power BI,Excel:
 
-
-
+### Architecture Map:-
+![Uploading Untitled Diagram-Page-2.drawio.png…]()
 
